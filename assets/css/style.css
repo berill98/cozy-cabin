@@ -36,6 +36,13 @@ h4 {
     font-size: 110%;
 }
 
+h5 {
+    text-transform: uppercase;
+    padding: 10px 0;
+    letter-spacing: 4px;
+    font-size: 90%;
+}
+
 /* Header */
 
 header {
@@ -125,6 +132,21 @@ button i {
     width: 100%;
     height: auto;
     margin: 0 20px 20px 20px;
+}
+
+/* Testimonials section */
+
+#testimonials-outer {
+    clear: both;
+}
+
+.review {
+    background-color: #232514;
+    border-radius: 5px;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 20px;
 }
 
 /* Footer */
