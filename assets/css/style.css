@@ -149,6 +149,13 @@ button i {
     margin-bottom: 20px;
 }
 
+/* Gallery */
+
+#gallery-box {
+	width: 80%;
+	margin: 20px auto;
+}
+
 /* Footer */
 
 .green-background {
