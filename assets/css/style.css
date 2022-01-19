@@ -156,6 +156,63 @@ button i {
     margin: 20px auto;
 }
 
+/* Booking form */
+
+#booking-form-outer {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background: url("../images/booking-background.jpg") no-repeat fixed center center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#booking-form {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    margin-left: -250px;
+    bottom: 5%;
+    background-color: #232514;
+    width: 500px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.input {
+    width: 90%;
+    padding: 3px;
+    margin: 5px 0;
+}
+
+.customer-number {
+    width: 20%;
+    padding: 3px;
+    margin: 5px 5px;
+}
+
+label {
+    padding: 3px;
+    margin: 5px 0;
+}
+
+#booking-form h2 {
+    padding: 5px 0;
+}
+
+#submit-button {
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #45422B;
+    border-color: #232514;
+}
+
+#submit-button:hover {
+    background-color: #232514;
+    border-color: #45422B;
+}
+
 /* Footer */
 
 .green-background {
