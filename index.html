@@ -40,7 +40,7 @@
                             <a class="nav-link" href="#top" aria-label="Go to the top of the page">home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about-outer" ria-label="Go to the about section">about</a>
+                            <a class="nav-link" href="#about-outer" aria-label="Go to the about section">about</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#testimonials-outer"
@@ -183,7 +183,46 @@
             </div>
         </div>
     </section>
-    <section id="booking-form-outer">contact form in here</section>
+    <!-- Start of Booking form -->
+    <section id="booking-form-outer">
+        <form id="booking-form" action="confirmation.html">
+            <h2>Book now!</h2>
+            <label for="name">Name:</label>
+            <input class="input" type="text" name="name" id="name" required>
+            <br>
+            <label for="email">Email Address:</label>
+            <input class="input" type="email" id="email" name="email" required>
+            <br>
+            <label for="check-in">Check-in:</label>
+            <input class="input" type="date" id="check-in" name="check-in" required>
+            <br>
+            <label for="check-out">Check-out:</label>
+            <input class="input" type="date" id="check-out" name="check-out" required>
+            <br>
+            <label for="adults">Adults:</label>
+            <select class="customer-number" name="adults" id="adults" required>
+                <option value="one">1</option>
+                <option value="two">2</option>
+                <option value="three">3</option>
+                <option value="four">4</option>
+            </select>
+
+            <label for="children">Children:</label>
+            <select class="customer-number" name="children" id="children">
+                <option value="zero">0</option>
+                <option value="one">1</option>
+                <option value="two">2</option>
+                <option value="three">3</option>
+            </select>
+            <br>
+            <label for="other">Other requests:</label>
+            <br>
+            <textarea class="input" id="other" name="other" rows="5" cols="50"
+                placeholder="Other requests..."></textarea>
+
+            <input id="submit-button" class="btn btn-dark btn-lg" type="submit" value="Book now!">
+        </form>
+    </section>
     <!-- Start of Footer -->
     <footer class="green-background">
         <div class="container-fluid">
@@ -215,6 +254,7 @@
             </div>
         </div>
     </footer>
+    <!--Scripts for Bootstrap-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
