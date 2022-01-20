@@ -8,6 +8,8 @@ Cozy Cabin is a website that aims to provide information about a fictional woodl
 
 The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-cabin/)
 
+![Responsive Mockup](docs/readme_images/responsive.png)
+
 ## Site Owner Goals
 
 - To provide the user with information about the woodland cabin.
@@ -25,14 +27,16 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 
 ### Fonts
 
-I have used [Google Fonts](https://fonts.google.com/) to find the fonts that best suit the feel of the website. I have used Yeseva One and Work Sans for the website.
+- I have used [Google Fonts](https://fonts.google.com/) to find the fonts that best suit the feel of the website. I have used Yeseva One and Work Sans for the website. I used Cursive and Sans Serif as backup fonts, in case for any reason the main fonts aren't able to load correctly.
 
 ### Icons
 
-The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
-### Colors
-### Structure
+### Colors and images
+
+- The colours on the website are natural colors. The main colours are white, green, brown and grey. The dark fonts have a good contrast with the light green and white backgrounds making it easy to read.
+- The images used on the website are very important. I used photos just from one photographer to achieve a matching effect.
 
 ## Wireframes
 
@@ -78,14 +82,58 @@ The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
   - The footer section includes contact details and links to the relevant social media sites for Cozy Cabin. The links will open to a new tab to allow easy navigation for the user. These links encourage the user to keep connected via social media.
 
-### Features Left to Implement
+### Features left to Implement
+
 
 ## Technologies used
+
 ### Languages
-### Tools and Libraries
+
+- HTML5
+- CSS
+
+### Frameworks, Tools and Libraries
+
+- [Bootstrap](https://getbootstrap.com/) - Used as a framework for the website.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and testing for example the  responsiveness and appearance.
+- [Font Awesome](https://fontawesome.com/) - Used for the social media icons in footer.
+- [Google Fonts](https://fonts.google.com/) - Used to import fonts to the website.
+- [GitHub](https://github.com/) - Used for version control and hosting.
+- [W3C](https://www.w3.org/) - Used for validation.
+- [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
+- [Am I Responsive](http://ami.responsivedesign.is/) - Used to test responsiveness of the site on different screen sizes.
 
 ## Testing 
 ### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fberill98.github.io%2Fcozy-cabin%2F). Just one warning.
+- CSS
+  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator)
+- Accessibility
+  - The site achieved a Lighthouse accessibility score of 96% which confirms that the colours and fonts are easy to read and accessible.
+  ![Accessibility](docs/readme_images/accessibility.png)
+
+### Device Testing
+
+- The site was tested on various devices such as desktop, laptops, Iphone SE and Iphone 11 to ensure responsiveness. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices.
+
+### Browser Testing
+
+- The site was tested on different browsers (Google Chrome, Firefox, Microsoft Edge and Safari) without issues.
+
+### Links Testing
+
+- All navigation links were tested to ensure the user is directed to the correct section of the website.
+- The social media links in the footer of each page were tested to ensure they direct the user to the correct page and open in a new tab.
+
+### Form Testing
+
+- The form was tested to ensure it is not possible to submit without the required input fields being filled in (name, email address, check-in and check-out dates).
+
+### Friends and Family User Testing
+Friends and family members were asked to review the site to point out any user experience issues.
+
 ### Unfixed Bugs
 
 ## Deployment
@@ -103,6 +151,11 @@ The live link can be found here - https://berill98.github.io/test/
 - If any changes are required, they can be done, committed and pushed to GitHub and the changes will be updated.
 
 ## Credits
+
+### Content
+
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
 ### Media
 
 - The favicon and the "wonder less wander more" image is my own work.
