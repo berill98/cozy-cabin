@@ -103,9 +103,30 @@ The live link can be found here - https://berill98.github.io/test/
 - If any changes are required, they can be done, committed and pushed to GitHub and the changes will be updated.
 
 ## Credits
-### Content
 ### Media
+
+- The favicon and the "wonder less wander more" image is my own work.
+- All of the photos on the website are from a photographer called [Ron Lach](https://www.pexels.com/@ron-lach).
+His photos express perfectly the atmosphere I imagined for the cabin.
+
+| Media  | Photographer  | Link |
+| :------------ |:---------------:| -----:|
+| Hero image | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-light-landscape-vacation-9211814/) |
+| About section photo | Ron Lach | [Pexels](https://www.pexels.com/photo/an-armchair-near-the-lamp-9220873/) |
+| Booking form background | Ron Lach | [Pexels]() |
+| Gallery - Inside | Ron Lach | [Pexels](https://www.pexels.com/photo/black-metal-framed-brown-padded-armchair-9220877/) |
+| Gallery - Cabin | Ron Lach | [Pexels](https://www.pexels.com/photo/a-wooden-house-with-glass-wall-on-camping-site-9211816/) |
+| Gallery - Dinner| Ron Lach | [Pexels](https://www.pexels.com/photo/healthy-man-vacation-people-9220887/) |
+| Gallery - Outside | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-man-vacation-people-9222083/) |
+| Gallery - Yoga | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-light-man-vacation-9225395/) |
+| Gallery - Work | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-light-restaurant-dawn-9222399/) |
+
 ### Resources used
+
+- Inspiration for the gallery - [Bootstrap Carousel](https://getbootstrap.com/docs/4.0/components/carousel/)
+- Guide for the favicon - [W3Schools](https://www.w3schools.com/html//html_favicon.asp)
+- Guide for the smooth scroll effect - [W3Schools](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+- Inspiration for the responsive Bootstrap navbar [Muhammed Fathi](https://codepen.io/Hendawy/pen/BPgNrx)
 
 ## Acknowledgments
 
