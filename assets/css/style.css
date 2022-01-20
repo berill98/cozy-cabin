@@ -178,6 +178,7 @@ button i {
     padding: 20px;
     color: white;
     text-align: center;
+    border-radius: 5px;
 }
 
 .input {
