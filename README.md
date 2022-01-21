@@ -25,11 +25,7 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - As an user I want to be able to easily book a weekend or more in the cabin. 
 - As an user I want to be able to contact and follow the cabin via social media.
 
-## Requirements
-
-## Expectations
-
-## Design choices
+## UX
 
 ### Fonts
 
@@ -44,7 +40,7 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - The colours on the website are natural colors. The main colours are white, green, brown and grey. The dark fonts have a good contrast with the light green and white backgrounds making it easy to read.
 - The images used on the website are very important. I used photos just from one photographer to achieve a matching effect.
 
-## Wireframes
+### Wireframes
 
 ## Features
 
@@ -115,17 +111,22 @@ To view all testing documentation please refer to [TESTING.md](TESTING.md).
 
 ## Deployment
 
-My project was deployed using GitHub Pages. The steps to deploy using GitHub Pages are the following:
+The site was deployed to GitHub Pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/berill98/cozy-cabin), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-- Go to your repository on GitHub.com
-- Select "Settings" near the top of the page.
-- Select "Pages" on the side navigation bar.
-- Under "Source" select the "Branch" dropdown menu and select the main branch.
-- Once selected, you can click on the "Save" button.
+The live link can be found [here](https://berill98.github.io/cozy-cabin)
 
-The live link can be found here - https://berill98.github.io/test/
+### Local Deployment
 
-- If any changes are required, they can be done, committed and pushed to GitHub and the changes will be updated.
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone the repository:
+
+- `git clone https://github.com/berill98/cozy-cabin.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/berill98/cozy-cabin)
 
 ## Credits
 
@@ -143,7 +144,7 @@ His photos express perfectly the atmosphere I imagined for the cabin.
 | :------------ |:---------------:| -----:|
 | Hero image | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-light-landscape-vacation-9211814/) |
 | About section photo | Ron Lach | [Pexels](https://www.pexels.com/photo/an-armchair-near-the-lamp-9220873/) |
-| Booking form background | Ron Lach | [Pexels]() |
+| Booking form background | Ron Lach | [Pexels](https://www.pexels.com/photo/wood-dawn-landscape-vacation-9220739/) |
 | Gallery - Inside | Ron Lach | [Pexels](https://www.pexels.com/photo/black-metal-framed-brown-padded-armchair-9220877/) |
 | Gallery - Cabin | Ron Lach | [Pexels](https://www.pexels.com/photo/a-wooden-house-with-glass-wall-on-camping-site-9211816/) |
 | Gallery - Dinner| Ron Lach | [Pexels](https://www.pexels.com/photo/healthy-man-vacation-people-9220887/) |
