@@ -17,7 +17,13 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - To enable the user to book a weekend or more in the cabin.
 - To increase the number of the customers.
 
-## User stories/goals
+## User stories
+
+- As an user I want to understand the main purpose of the site and learn about the woodland cabin. 
+- As an user I want to be able to easily navigate the website and have a positive emotional experience. 
+- As an user I want to be able to browse the gallery without having to sign-up / register. 
+- As an user I want to be able to easily book a weekend or more in the cabin. 
+- As an user I want to be able to contact and follow the cabin via social media.
 
 ## Requirements
 
