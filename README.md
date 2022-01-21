@@ -103,38 +103,9 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Used to test responsiveness of the site on different screen sizes.
 
-## Testing 
-### Validator Testing 
+## Testing
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fberill98.github.io%2Fcozy-cabin%2F). Just one warning.
-- CSS
-  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator)
-- Accessibility
-  - The site achieved a Lighthouse accessibility score of 96% which confirms that the colours and fonts are easy to read and accessible.
-  ![Accessibility](docs/readme_images/accessibility.png)
-
-### Device Testing
-
-- The site was tested on various devices such as desktop, laptops, Iphone SE and Iphone 11 to ensure responsiveness. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices.
-
-### Browser Testing
-
-- The site was tested on different browsers (Google Chrome, Firefox, Microsoft Edge and Safari) without issues.
-
-### Links Testing
-
-- All navigation links were tested to ensure the user is directed to the correct section of the website.
-- The social media links in the footer of each page were tested to ensure they direct the user to the correct page and open in a new tab.
-
-### Form Testing
-
-- The form was tested to ensure it is not possible to submit without the required input fields being filled in (name, email address, check-in and check-out dates).
-
-### Friends and Family User Testing
-Friends and family members were asked to review the site to point out any user experience issues.
-
-### Unfixed Bugs
+To view all testing documentation please refer to [TESTING.md](TESTING.md).
 
 ## Deployment
 
@@ -154,7 +125,7 @@ The live link can be found here - https://berill98.github.io/test/
 
 ### Content
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
