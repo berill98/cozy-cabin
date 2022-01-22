@@ -40,6 +40,8 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - The colours on the website are natural colors. The main colours are white, green, brown and grey. The dark fonts have a good contrast with the light green and white backgrounds making it easy to read.
 - The images used on the website are very important. I used photos just from one photographer to achieve a matching effect.
 
+![Colors](docs/readme_images/colors.png)
+
 ### Wireframes
 
 ## Features
