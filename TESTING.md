@@ -8,7 +8,7 @@
   ![HTML Validation](docs/readme_images/html_validation.png)
 
 - CSS
-  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fberill98.github.io%2Fcozy-cabin)
+  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fberill98.github.io%2Fcozy-cabin).
 
   ![CSS Validation](docs/readme_images/css_validation.png)
 
@@ -35,5 +35,22 @@ There are no unfixed bugs that I am aware of.
 
 ## User story testing
 
-- user sdtories in here
-- screenshots from features
+- As an user I want to understand the main purpose of the site and learn about the woodland cabin.
+
+![Abouts section](docs/readme_images/about.png)
+
+- As an user I want to be able to easily navigate the website and have a positive emotional experience. 
+
+![Navigation bar](docs/readme_images/navbar.png)
+
+- As an user I want to be able to browse the gallery without having to sign-up / register. 
+
+![Gallery](docs/readme_images/gallery.png)
+
+- As an user I want to be able to easily book a weekend or more in the cabin. 
+
+![Booking form](docs/readme_images/booking.png)
+
+- As an user I want to be able to contact and follow the cabin via social media.
+
+![Footer](docs/readme_images/footer.png)
