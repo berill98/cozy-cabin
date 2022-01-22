@@ -23,9 +23,15 @@
 
 <details><summary><b>Responsiveness testing</b> (click to expand)</summary>
 
+Desktop view
+
 ![Desktop size](docs/testing_images/googlechrome_largesize.png)
 
+Tablet view
+
 ![Tablet size](docs/testing_images/mozillafirefox_tabletsize.png)
+
+Mobile view
 
 ![Mobile size](docs/testing_images/microsoftedge_mobilesize.png)
 
@@ -37,9 +43,15 @@
 
 <details><summary><b>Browser testing</b> (click to expand)</summary>
 
+Google Chrome
+
 ![Google Chrome](docs/testing_images/googlechrome_largesize.png)
 
+Mozilla Firefox
+
 ![Mozilla Firefox](docs/testing_images/mozillafirefox_tabletsize.png)
+
+Microsoft Edge
 
 ![Microsoft Edge](docs/testing_images/microsoftedge_mobilesize.png)
 
