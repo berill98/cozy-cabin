@@ -129,6 +129,11 @@ button i {
     margin: 0 20px;
 }
 
+#about-image {
+    text-align: center;
+}
+
+
 #about-image img {
     width: 100%;
     height: auto;
@@ -258,6 +263,13 @@ label {
 }
 
 /* Media queries */
+
+@media only screen and (max-width: 992px) {
+    #about-image img {
+        height: 50vh;
+        width: auto;
+    }
+}
 
 @media only screen and (max-width: 555px) {
     #booking-form {
