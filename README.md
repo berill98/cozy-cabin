@@ -128,11 +128,14 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and testing for example the  responsiveness and appearance.
 - [Font Awesome](https://fontawesome.com/) - Used for the social media icons in footer.
 - [Google Fonts](https://fonts.google.com/) - Used to import fonts to the website.
-- [GitHub](https://github.com/) - Used for version control and hosting.
 - [W3C](https://www.w3.org/) - Used for validation.
 - [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Used to test responsiveness of the site on different screen sizes.
 - [Autoprefixer](https://autoprefixer.github.io/) - Used to add vendro prefixes to my CSS.
+- Git - Used for version control.
+- [Gitpod](https://gitpod.io/) - Used as a cloud-based IDE.
+- [GitHub](https://github.com/) - Used for storing code securely online.
+- [GitHub Pages](https://pages.github.com/) - Used for site hosting.
 
 ## Testing
 
