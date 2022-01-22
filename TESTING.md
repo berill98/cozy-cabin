@@ -29,6 +29,10 @@
 
 - The form was tested to ensure it is not possible to submit without the required input fields being filled in (name, email address, check-in and check-out dates), and that it navigates to the appropriate confirmation page.
 
+![Booking form required input](docs/readme_images/required.png)
+
+![Confirmation page](docs/readme_images/confirmation.png)
+
 ## Unfixed Bugs
 
 There are no unfixed bugs that I am aware of.
