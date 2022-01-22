@@ -35,7 +35,7 @@
 
 - The site was tested on different browsers (Google Chrome, Firefox, Microsoft Edge) without issues.
 
-<details><summary><b>Browser</b></summary>
+<details><summary><b>Browser testing</b></summary>
 
 ![Google Chrome](docs/testing_images/googlechrome_largesize.png)
 
