@@ -52,40 +52,58 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
     - The navigation bar will allow the user to easily navigate from section to section across all devices without having to scroll back up to the top of the page or use the browser's ‘back’ button. 
     - The navigation bar has a fixed position so that it remains visible at the top of the page. It also has a shadow to make sure that it stands out.
 
+  ![Navigation bar](docs/readme_images/navbar.png)
+
 - __The hero image__
 
     - This section includes an eye-catching photograph with text overlay and a submark logo to grab the user's attention and allow them to feel the Cozy Cabin atmosphere.
     - This section also includes a call-to-action button which helps the user booking a holiday at the cabin.
+
+  ![Hero image](docs/readme_images/hero.png)
 
 - __About Section__
 
     - This section will allow the user to read the most important information about the Cozy Cabin.
     - The user can have a look at the prices.
 
+  ![Abouts section](docs/readme_images/about.png)
+
 - __Testimonials section__
 
   - This section will allow the user to read some testimonials from other, satisfied customers. 
   - It will encourage the user to consider booking a holiday at the cabin.
 
+  ![Testimonials section](docs/readme_images/testimonials.png)
+
 - __Gallery__
 
     - The gallery will provide the user with supporting images to see what the cabin looks like both from inside and outside.
 
+  ![Gallery](docs/readme_images/gallery.png)
+
 - __Book now! form__
 
   - This form will allow the user to book a weekend or more at the cabin. The user will be asked to submit their name, email address and the desired check-in and check-out dates. The user will be able give the number of guests and other requests.
+
+  ![Booking form](docs/readme_images/booking.png)
 
 - __Confirmation page__
 
   - The confirmation page will allow the user to be sure that their booking was succesful.
   - It will take the user back to the home page within 10 seconds.
 
+  ![Confirmation page](docs/readme_images/confirmation.png)
+
 - __The Footer__ 
 
   - The footer section includes contact details and links to the relevant social media sites for Cozy Cabin. The links will open to a new tab to allow easy navigation for the user. These links encourage the user to keep connected via social media.
 
+  ![Footer](docs/readme_images/footer.png)
+
 ### Features left to Implement
 
+- Making a real booking system.
+- 3D tour about the cabin.
 
 ## Technologies used
 
