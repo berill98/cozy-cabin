@@ -72,10 +72,10 @@ button i {
 
 .nav-item a:hover {
     text-decoration: none;
-    color: white;
     border-radius: 5px;
     background-color: rgba(69, 66, 43, .2);
     border-color: #232514;
+    padding-left: 1em;
 }
 
 /* Hero Image */
