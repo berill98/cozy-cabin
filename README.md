@@ -44,7 +44,7 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 
 ### Wireframes
 
-<details><summary><b>Wireframes</b></summary>
+<details><summary><b>Wireframes</b> (click to expand)</summary>
 
 ![Hand-drawn wireframe](docs/wireframes/wireframe.png)
 

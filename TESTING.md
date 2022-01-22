@@ -21,7 +21,7 @@
 
 - The site was tested on various devices such as desktop, laptops and mobiles to ensure responsiveness. The website performed as intended. The responsive design was also checked using Chrome Developer Tools across multiple devices.
 
-<details><summary><b>Responsiveness testing</b></summary>
+<details><summary><b>Responsiveness testing</b> (click to expand)</summary>
 
 ![Desktop size](docs/testing_images/googlechrome_largesize.png)
 
@@ -35,7 +35,7 @@
 
 - The site was tested on different browsers (Google Chrome, Firefox, Microsoft Edge) without issues.
 
-<details><summary><b>Browser testing</b></summary>
+<details><summary><b>Browser testing</b> (click to expand)</summary>
 
 ![Google Chrome](docs/testing_images/googlechrome_largesize.png)
 
