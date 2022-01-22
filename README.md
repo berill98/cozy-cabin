@@ -29,7 +29,7 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 
 ### Fonts
 
-- I have used [Google Fonts](https://fonts.google.com/) to find the fonts that best suit the feel of the website. I have used Yeseva One and Work Sans for the website. I used Cursive and Sans Serif as backup fonts, in case for any reason the main fonts aren't able to load correctly.
+- I have used Google Fonts to find the fonts that best suit the feel of the website. I have used [Yeseva One](https://fonts.google.com/specimen/Yeseva+One) and [Work Sans](https://fonts.google.com/specimen/Work+Sans) for the website. I used Cursive and Sans Serif as backup fonts, in case for any reason the main fonts aren't able to load correctly.
 
 ### Icons
 
@@ -104,6 +104,7 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 - [W3C](https://www.w3.org/) - Used for validation.
 - [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Used to test responsiveness of the site on different screen sizes.
+- [Autoprefixer](https://autoprefixer.github.io/) - Used to add vendro prefixes to my CSS.
 
 ## Testing
 
