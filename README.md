@@ -44,6 +44,14 @@ The live link can be found here - [Cozy Cabin](https://berill98.github.io/cozy-c
 
 ### Wireframes
 
+<details><summary><b>Wireframes</b></summary>
+
+![Hand-drawn wireframe](docs/wireframes/wireframe.png)
+
+![Balsamiq wireframe](docs/wireframes/wireframe_balsamiq.png)
+
+</details>
+
 ## Features
 
 ### Existing Features
