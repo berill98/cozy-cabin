@@ -35,6 +35,16 @@
 
 - The site was tested on different browsers (Google Chrome, Firefox, Microsoft Edge) without issues.
 
+<details><summary><b>Browser</b></summary>
+
+![Google Chrome](docs/testing_images/googlechrome_largesize.png)
+
+![Mozilla Firefox](docs/testing_images/mozillafirefox_tabletsize.png)
+
+![Microsoft Edge](docs/testing_images/microsoftedge_mobilesize.png)
+
+</details>
+
 ## Form Testing
 
 - The form was tested to ensure it is not possible to submit without the required input fields being filled in (name, email address, check-in and check-out dates), and that it navigates to the appropriate confirmation page.
